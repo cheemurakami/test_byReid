@@ -1,37 +1,49 @@
-# _{Application Name}_
+# _Super Galactic age Calculator_
 
-#### _{Brief description of application}, {Date of current version}_
+https://github.com/cheemurakami/superGaracticAgeCalculator
 
-#### By _**{List of contributors}**_
+#### JavaScript & jQuery Project for Epicodus, _04/17/2020_
+
+#### By _**Chisato Murakami**_
 
 ## Description
+This is a simple website to to chose and order pizza using the technologies I learned during my forth week at Epicodus.
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+## Project Specefications
+
+|  Behavior                 |  Input  | Output
+|---------------------------|---------|-------
+| **Spec 1: selectboxes <- size(s, m, l), topping(cheese, pepperoni, tomato)**| |
+| **Spec 2: variables to store inputted data** | |
+| **Spec 3: Pizza constructor with properties for toppings and size** | |
+| **Spec 4: prototype method for the cost of pizza depending on the selections chosen** | |
+| **Spec 5: list the pizza the user order after user submit**  | |
+| **Spec 6: when clicks list, it displays the order summary and price**    |
+| **Spec 7: add button for proceed to check out and show payment input section**    |
+| **Spec 8: after users input their name, address, and payment option, press continue button so displays the summary of payment info**    |
+
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* This program requires to have a web browser as Google Chrome, Safari or Mozilla Firefox
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_{You can clone this program to your desktop or download the zip file on this page: }_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{Fixed JavaScript bug below:
+  Have to click continue button twice to show review your payment info box.}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run our program and find any other bugs or issues in it's functionality or you want to add to this program we encourage you to reach out to either of us at: kiwipom1031@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML, CSS, Javascript, Bootstrap , jQuery._
 
 ### License
 
-*Licensed under the MIT license*
+*This softwar is licensed under the MIT license [MIT](https://en.wikipedia.org/wiki/MIT_License)*
 
-Copyright (c) 2020 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_{Chisato Murakami}_**
